@@ -1,3 +1,5 @@
+##  THIS IS TO TEST HOW GITHUB WORKS
+
 testNumber = 13
 tempNumber = 0
 highestNumber = 0
