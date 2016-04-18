@@ -10,7 +10,7 @@ sequenceCounter = 0
 while testNumber <= 1000000:
     testNumber += 1
     tempNumber = testNumber
-    while tempNumber != 2:
+    while tempNumber != 1:
         if tempNumber%2 == 0:
             tempNumber /= 2
             sequenceCounter += 1
